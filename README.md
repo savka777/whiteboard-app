@@ -4,7 +4,7 @@
 
 
 ## Description
-Use your mobile devices or tables to draw on computer screen in real time. 
+Use your mobile devices or tablets to draw on computer screen in real time. 
 
 
 ## 1: Project setup
