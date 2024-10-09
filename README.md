@@ -4,7 +4,7 @@
 
 
 ## Description
-
+Use your mobile devices or tables to draw on computer screen in real time. 
 
 
 ## 1: Project setup
@@ -22,4 +22,6 @@ $ npm run start
 # watch mode
 $ npm run start:dev
 ```
-*Scan QR Code to connect any device to draw in real time*
+## 3: Scan QR Code
+connect any device by scanning the QR Code to be able to draw in real time on screen
+
